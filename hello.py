@@ -6,4 +6,5 @@ print("his world")
 print("abc")
 
 //for commandline git tutorial
-//Local repository modification
+//first : Local repository modification
+//second : GitHub modification
